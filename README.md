@@ -7,6 +7,7 @@ A description of my project is available here: https://docs.google.com/presentat
 - G-2025B-0505-V_reduce.ipynb: a complete reduction of GMOS observations for our candidates
 - test_cosmic_ray_removal.ipynb: a test of the cosmic ray removal routine, including other primitive tests
 - test_wavelegnth_distortion_skysubtract.ipynb: a test of the wavelength solution, distortion correction, and sky subtraction primitives
+- pypeit_reduction.ipynb: test if PypeIt can do better at sky subtraction
 - test_arc_reduction.ipynb: a test of the arc reduction primitive
 - find_radial_velocity.ipynb: my exploration of radial velocity routines
 - compare_radial_velocity_methods.ipynb: a test to prove PyXCAO's excellence compared to other routines to find radial velocity
